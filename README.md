@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Romina Antueno 👋
 
 <!--
 **roantueno/roantueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
